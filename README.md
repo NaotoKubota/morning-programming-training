@@ -1,8 +1,11 @@
 # 朝プロ
 
-docker containerでjupyter notebookを開いて作業する。
+火・木 9:30 ~ 10:00
 
-```sh
+## 準備
+Docker で Jupyter notebookを開く。
+
+```Bash
 docker pull jupyter/scipy-notebook
 git clone https://github.com/NaotoKubota/morning-programming-training.git
 cd morning-programming-training
