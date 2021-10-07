@@ -3,14 +3,21 @@
 火・木 9:30 ~ 10:00
 
 ## 準備
-Docker で Jupyter notebookを開く。
+Docker をインストールしておく。
 
 ```Bash
 docker pull jupyter/scipy-notebook
 git clone https://github.com/NaotoKubota/morning-programming-training.git
+```
+
+Jupyter notebook を開く。
+
+```Bash
 cd morning-programming-training
+git pull
 docker run --rm -v `pwd`:/home/jovyan/work -p 10000:8888 --name jupyter jupyter/scipy-notebook
 ```
+
 表示されるtokenをコピーして、ブラウザで `localhost:10000` にアクセスする。
 
 ## 資料
