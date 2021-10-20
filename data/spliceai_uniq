@@ -1,0 +1,32 @@
+#Uploaded_variation	Location	Allele	Consequence	AF	SpliceAI_pred_DP_AG	SpliceAI_pred_DP_AL	SpliceAI_pred_DP_DG	SpliceAI_pred_DP_DL	SpliceAI_pred_DS_AG	SpliceAI_pred_DS_AL	SpliceAI_pred_DS_DG	SpliceAI_pred_DS_DL	SpliceAI_pred_SYMBOL
+rs1151065	11:60064243-60064243	A	intron_variant	0.2957	50	19	-31	27	0.0	0.22	0.0	0.0	MS4A3
+rs1151065	11:60064243-60064243	A	intron_variant,NMD_transcript_variant	0.2957	50	19	-31	27	0.0	0.22	0.0	0.0	MS4A3
+rs1727129	7:100213379-100213379	C	intron_variant	0.4818	-19	-20	12	-36	0.29	0.0	0.0	0.0	STAG3
+rs1727129	7:100213379-100213379	C	intron_variant,NMD_transcript_variant	0.4818	-19	-20	12	-36	0.29	0.0	0.0	0.0	STAG3
+rs1727129	7:100213379-100213379	C	intron_variant,non_coding_transcript_variant	0.4818	-19	-20	12	-36	0.29	0.0	0.0	0.0	STAG3
+rs17803620	15:89260812-89260812	G	intron_variant,non_coding_transcript_variant		0	-34	0	31	0.0	0.0	0.0	0.51	FANCI
+rs17803620	15:89260812-89260812	G	missense_variant		0	-34	0	31	0.0	0.0	0.0	0.51	FANCI
+rs17803620	15:89260812-89260812	G	missense_variant,NMD_transcript_variant		0	-34	0	31	0.0	0.0	0.0	0.51	FANCI
+rs17803620	15:89260812-89260812	T	intron_variant,non_coding_transcript_variant	0.2598	31	-34	0	31	0.0	0.0	0.0	0.21	FANCI
+rs17803620	15:89260812-89260812	T	missense_variant	0.2598	31	-34	0	31	0.0	0.0	0.0	0.21	FANCI
+rs17803620	15:89260812-89260812	T	missense_variant,NMD_transcript_variant	0.2598	31	-34	0	31	0.0	0.0	0.0	0.21	FANCI
+rs1880949	7:100124643-100124643	T	intron_variant	0.274	-38	45	-6	-39	0.03	0.0	0.65	0.0	CNPY4
+rs1880949	7:100124643-100124643	T	intron_variant,NMD_transcript_variant	0.274	-38	45	-6	-39	0.03	0.0	0.65	0.0	CNPY4
+rs1880949	7:100124643-100124643	T	intron_variant,non_coding_transcript_variant	0.274	-38	45	-6	-39	0.03	0.0	0.65	0.0	CNPY4
+rs1994558	18:48806024-48806024	G	intron_variant	0.4113	-40	12	12	-17	0.0	0.0	0.22	0.0	CTIF
+rs1994558	18:48806024-48806024	G	intron_variant,non_coding_transcript_variant	0.4113	-40	12	12	-17	0.0	0.0	0.22	0.0	CTIF
+rs2075618	19:44992410-44992410	A	intron_variant		-46	0	8	0	0.0	0.0	0.24	0.0	CLPTM1
+rs2075618	19:44992410-44992410	A	intron_variant,NMD_transcript_variant		-46	0	8	0	0.0	0.0	0.24	0.0	CLPTM1
+rs2075619	19:44992424-44992424	T	intron_variant		-24	-6	-6	-24	0.0	0.0	0.58	0.02	CLPTM1
+rs2075619	19:44992424-44992424	T	intron_variant,NMD_transcript_variant		-24	-6	-6	-24	0.0	0.0	0.58	0.02	CLPTM1
+rs2112181	5:177509589-177509589	A	intron_variant		-5	-23	-14	-13	0.29	0.0	0.0	0.0	DOK3
+rs2112181	5:177509589-177509589	A	splice_region_variant,intron_variant		-5	-23	-14	-13	0.29	0.0	0.0	0.0	DOK3
+rs34492995	4:140392346-140392346	A	synonymous_variant	0.0038	-26	32	-27	13	0.43	0.02	0.0	0.0	CLGN
+rs36189208	2:233146358-233146358	A	intron_variant		2	9	9	30	0.99	0.5	0.0	0.0	INPP5D
+rs3730025	17:63480412-63480412	C	missense_variant		8	-19	-42	-3	0.41	0.0	0.0	0.0	ACE
+rs4782272	16:19717694-19717694	C	splice_acceptor_variant	0.1991	7	1	22	1	0.0	0.59	0.0	0.0	IQCK
+rs4782272	16:19717694-19717694	C	splice_acceptor_variant,NMD_transcript_variant	0.1991	7	1	22	1	0.0	0.59	0.0	0.0	IQCK
+rs528823	11:60069624-60069624	T	synonymous_variant	0.3007	14	-50	-6	37	0.0	0.21	0.0	0.0	MS4A3
+rs61749348	1:18874494-18874494	A	synonymous_variant	0.0651	2	-7	2	-31	0.0	0.0	0.4	0.01	ALDH4A1
+rs7257231	19:44749182-44749182	A	intron_variant	0.259	-3	34	-3	34	0.0	0.0	0.21	0.0	BCL3
+rs7257231	19:44749182-44749182	A	intron_variant,non_coding_transcript_variant	0.259	-3	34	-3	34	0.0	0.0	0.21	0.0	BCL3
